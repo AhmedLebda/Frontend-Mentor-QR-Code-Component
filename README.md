@@ -18,8 +18,8 @@ A simple QR code component page using HTML and CSS
 ![2](screenshots/mobile.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repo](https://github.com/AhmedLebda/Frontend-Mentor-QR-Code-Component.git)
+- Live Site URL: [Live site on Github pages](https://ahmedlebda.github.io/Frontend-Mentor-QR-Code-Component/)
 
 ### Built with
 - Semantic HTML5 markup
